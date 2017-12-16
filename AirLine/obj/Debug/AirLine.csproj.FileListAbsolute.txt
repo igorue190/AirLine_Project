@@ -1,0 +1,12 @@
+c:\users\пк\documents\visual studio 2013\Projects\AirLine\AirLine\bin\Debug\AirLine.exe.config
+c:\users\пк\documents\visual studio 2013\Projects\AirLine\AirLine\bin\Debug\AirLine.exe
+c:\users\пк\documents\visual studio 2013\Projects\AirLine\AirLine\bin\Debug\AirLine.pdb
+c:\users\пк\documents\visual studio 2013\Projects\AirLine\AirLine\bin\Debug\AirLine.LB.dll
+c:\users\пк\documents\visual studio 2013\Projects\AirLine\AirLine\bin\Debug\AirLine.LB.pdb
+c:\users\пк\documents\visual studio 2013\Projects\AirLine\AirLine\obj\Debug\AirLine.csprojResolveAssemblyReference.cache
+c:\users\пк\documents\visual studio 2013\Projects\AirLine\AirLine\obj\Debug\AirLine.exe
+c:\users\пк\documents\visual studio 2013\Projects\AirLine\AirLine\obj\Debug\AirLine.pdb
+C:\Users\ПК\Documents\Visual Studio 2013\Projects\AirLine\AirLine\bin\Debug\EntityFramework.dll
+C:\Users\ПК\Documents\Visual Studio 2013\Projects\AirLine\AirLine\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ПК\Documents\Visual Studio 2013\Projects\AirLine\AirLine\bin\Debug\EntityFramework.xml
+C:\Users\ПК\Documents\Visual Studio 2013\Projects\AirLine\AirLine\bin\Debug\EntityFramework.SqlServer.xml
